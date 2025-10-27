@@ -1,0 +1,5 @@
+{
+  "name": "Academy Management System",
+  "description": "A comprehensive academy management system with separate portals for Admin, Reception, and Partners. Features include dashboards, student/teacher management, expense tracking, and real-time data synchronization with Firebase.",
+  "requestFramePermissions": []
+}
